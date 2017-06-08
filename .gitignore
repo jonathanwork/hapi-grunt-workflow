@@ -1,0 +1,3 @@
+# igonre node modules and sass-cache
+./.sass-cache
+./node_modules
